@@ -201,6 +201,7 @@ v)	Most ordered cuisine by weekend
 
 
 Section E:
+
 I)	How many customers did not rate ?
 
 736 customers did not rate
